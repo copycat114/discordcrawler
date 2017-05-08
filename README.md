@@ -10,7 +10,7 @@ Install Node.js 6.0.0 or above if you dont have it already
 Once you have Node.js installed, run:  
 ``npm install --save discord.js``  
 in a command prompt.  
-Download ``crawler.js`` and ``config.josn`` and save them into a folder.
+Download ``crawler.js`` and ``config.json`` and save them into a folder.
 Edit ``config.json`` to the correct settings.  
 Change token to your bot's token.  
 Change serverid to the id of the server to post the links in.  
